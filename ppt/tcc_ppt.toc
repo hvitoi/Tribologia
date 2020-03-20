@@ -1,0 +1,16 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Resumo}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Prop\IeC {\'o}sito do trabalho}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Objetivos}{14}{0}{1}
+\beamer@sectionintoc {2}{Fundamenta\IeC {\c c}\IeC {\~a}o te\IeC {\'o}rica}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Tribologia}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Rodas ferrovi\IeC {\'a}rias}{21}{0}{2}
+\beamer@subsectionintoc {2}{3}{Ligas Ferro-Carbono}{23}{0}{2}
+\beamer@sectionintoc {3}{Metodologia}{26}{0}{3}
+\beamer@subsectionintoc {3}{1}{Prepara\IeC {\c c}\IeC {\~a}o das amostras}{26}{0}{3}
+\beamer@subsectionintoc {3}{2}{An\IeC {\'a}lise de dureza}{34}{0}{3}
+\beamer@subsectionintoc {3}{3}{Micrografia}{39}{0}{3}
+\beamer@subsectionintoc {3}{4}{Ensaio de Desgaste}{45}{0}{3}
+\beamer@sectionintoc {4}{Resultados e An\IeC {\'a}lises}{49}{0}{4}
+\beamer@sectionintoc {5}{Conclus\IeC {\~o}es}{53}{0}{5}

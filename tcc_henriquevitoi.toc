@@ -1,0 +1,60 @@
+\changetocdepth {4}
+\vspace {\cftbeforepartskip }
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}INTRODU\IeC {\c C}\IeC {\~A}O}{13}{chapter.9}
+\contentsline {section}{\numberline {1.1}Tribologia}{14}{section.12}
+\contentsline {section}{\numberline {1.2}Rodas ferrovi\IeC {\'a}rias}{17}{section.19}
+\contentsline {section}{\numberline {1.3}Objetivos}{18}{section.24}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICA}{19}{chapter.25}
+\contentsline {section}{\numberline {2.1}Ligas Ferro-Carbono}{19}{section.26}
+\contentsline {subsection}{\numberline {2.1.1}Alotropia do ferro}{19}{subsection.27}
+\contentsline {subsection}{\numberline {2.1.2}Diagrama Ferro - Carbeto de Ferro ($Fe-Fe_3C$)}{20}{subsection.34}
+\contentsline {subsection}{\numberline {2.1.3}Resfriamento lento}{23}{subsection.39}
+\contentsline {section}{\numberline {2.2}Tratamentos t\IeC {\'e}rmicos em a\IeC {\c c}os}{26}{section.48}
+\contentsline {subsection}{\numberline {2.2.1}Transforma\IeC {\c c}\IeC {\~a}o isot\IeC {\'e}rmica}{26}{subsection.55}
+\contentsline {subsection}{\numberline {2.2.2}Aust\IeC {\^e}mpera}{29}{subsection.62}
+\contentsline {subsection}{\numberline {2.2.3}Revenido}{32}{subsection.71}
+\contentsline {section}{\numberline {2.3}Micrografia}{34}{section.78}
+\contentsline {subsection}{\numberline {2.3.1}Microscopia \IeC {\'o}tica}{35}{subsection.79}
+\contentsline {subsection}{\numberline {2.3.2}Microscopia eletr\IeC {\^o}nica}{36}{subsection.84}
+\contentsline {section}{\numberline {2.4}Dureza dos materiais}{37}{section.85}
+\contentsline {subsection}{\numberline {2.4.1}Dureza por risco}{37}{subsection.86}
+\contentsline {subsection}{\numberline {2.4.2}Dureza por penetra\IeC {\c c}\IeC {\~a}o}{38}{subsection.89}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}METODOLOGIA}{40}{chapter.96}
+\contentsline {section}{\numberline {3.1}O Experimento}{40}{section.97}
+\contentsline {section}{\numberline {3.2}Prepara\IeC {\c c}\IeC {\~a}o das amostras}{42}{section.104}
+\contentsline {subsection}{\numberline {3.2.1}Roda perl\IeC {\'\i }tica}{44}{subsection.113}
+\contentsline {subsection}{\numberline {3.2.2}Roda bain\IeC {\'\i }tica}{45}{subsection.116}
+\contentsline {section}{\numberline {3.3}An\IeC {\'a}lise de dureza}{51}{section.133}
+\contentsline {section}{\numberline {3.4}Revenido}{52}{section.134}
+\contentsline {section}{\numberline {3.5}Micrografia}{53}{section.136}
+\contentsline {subsection}{\numberline {3.5.1}Imagens microestruturais cl\IeC {\'a}ssicas}{53}{subsection.139}
+\contentsline {section}{\numberline {3.6}Ensaio de desgaste}{56}{section.146}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}RESULTADOS E AN\IeC {\'A}LISES}{59}{chapter.156}
+\contentsline {section}{\numberline {4.1}An\IeC {\'a}lise de dureza}{59}{section.157}
+\contentsline {subsection}{\numberline {4.1.1}Dureza p\IeC {\'o}s-aust\IeC {\^e}mpera}{59}{subsection.158}
+\contentsline {subsection}{\numberline {4.1.2}Dureza p\IeC {\'o}s-revenido}{59}{subsection.161}
+\contentsline {section}{\numberline {4.2}Micrografia}{61}{section.164}
+\contentsline {subsection}{\numberline {4.2.1}Amostra bain\IeC {\'\i }tica}{61}{subsection.165}
+\contentsline {subsection}{\numberline {4.2.2}Amostra perl\IeC {\'\i }tica}{64}{subsection.174}
+\contentsline {section}{\numberline {4.3}Ensaio de desgaste}{66}{section.179}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}CONCLUS\IeC {\~O}ES}{69}{chapter.192}
+\vspace {\cftbeforepartskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\bfseries REFER\^ENCIAS}{71}{chapter*.199}
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{\bfseries ANEXO \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}TERMO DE AUTENTICIDADE}{72}{appendix.200}

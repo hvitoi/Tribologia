@@ -1,0 +1,12 @@
+Pós-austêmpera
+Perlita1 40 40 41 - 40,33
+Bainita1 59 60 60 - 59,67
+Bainita2 42 45 45 - 44,00
+Bainita3 56 52 53 - 53,67 (cortado)
+Bainita4 66 65 65 - 65,33
+
+Pós-revenido
+Bainita1 44,0 40,0 42,0 - 42,00
+Bainita2 37,0 38,5 38,5 - 38,00
+Bainita3 40,0 40,0 42,5 - 40,83 (cortado)
+Bainita4 43,0 43,0 41,5 - 42,50

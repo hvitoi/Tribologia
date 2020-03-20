@@ -1,0 +1,1 @@
+\multicolumn{1}{|p{3em}}{Carga} & \multicolumn{1}{p{3em}}{Leitura} & \multicolumn{1}{p{5em}}{Massa da amostra (g)} & \multicolumn{1}{p{5em}}{Perda de massa (g)} & \multicolumn{1}{p{7.5em}}{Taxa de desgaste (g.h/m)} & \multicolumn{1}{p{7.5em}}{Taxa de desgaste média (g.h/m)} & \multicolumn{1}{p{6.5em}|}{Desvio padrão (g.h/m)} \bigstrut\\
